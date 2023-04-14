@@ -30,6 +30,6 @@ geoChart.setGeoChartDataView(geoChartDataView);
 ```
 ### Library Use
 - gson-2.9.0.jar
-- Data vector maps : https://geojson-maps.ash.ms/
+- GeoJson : https://geojson-maps.ash.ms
 ### Screenshot
 ![geo demo](https://user-images.githubusercontent.com/58245926/232056129-a6853668-8942-4d8f-95df-8a2f20e3d8c2.png)
