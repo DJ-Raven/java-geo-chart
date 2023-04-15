@@ -18,7 +18,7 @@ geoChart.putData("Name 1", 5000, new Color(89, 152, 97));
 geoChart.putData("Name 2", 3500, new Color(200, 149, 61));
 
 // Put data with random color (name, value)
-geoChart.putData("Brazil", 1988);
+geoChart.putData("Name 3", 2500);
 ```
 ### Create GeoChart Data View
 ``` java
