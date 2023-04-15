@@ -1,7 +1,5 @@
 package demo;
 
-
-
 import java.awt.Color;
 import raven.chart.geo.utils.GeoData;
 
@@ -24,7 +22,7 @@ public class Panel extends javax.swing.JPanel {
         geoChart.putData("Philippines", 7017, new Color(89, 152, 97));
         geoChart.putData("Indonesia", 2869, new Color(200, 149, 61));
         geoChart.putData("Morocco", 2409, new Color(73, 104, 210));
-        geoChart.putData("Mezico", 2023, new Color(180, 73, 168));
+        geoChart.putData("Mexico", 2023, new Color(180, 73, 168));
         geoChart.putData("Brazil", 1988, new Color(82, 209, 211));
         geoChart.setGeoChartDataView(geoChartDataView);
     }
