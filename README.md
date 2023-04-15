@@ -32,4 +32,4 @@ geoChart.setGeoChartDataView(geoChartDataView);
 - gson-2.9.0.jar
 - GeoJson : https://geojson-maps.ash.ms
 ### Screenshot
-![geo demo](https://user-images.githubusercontent.com/58245926/232056129-a6853668-8942-4d8f-95df-8a2f20e3d8c2.png)
+![2023-04-16_003635](https://user-images.githubusercontent.com/58245926/232244719-84cca654-ab4e-4e1c-855b-3a7611f803dc.png)
